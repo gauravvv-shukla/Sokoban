@@ -13,7 +13,7 @@ Welcome to the Sokoban game implemented in JavaScript! Sokoban is a classic puzz
 
 ## Demo
 
-You can play the game online by visiting the [Sokoban Game Demo](https://thegauravshukla.me/sokoban) page.
+You can play the game online by visiting the [Sokoban Game Demo](https://thegauravshukla.me/Sokoban) page.
 
 ## Features
 
