@@ -46,6 +46,4 @@ To run this Sokoban game locally on your machine, follow these steps:
 - Use the arrow keys to move the player character.
 - Push boxes onto the target locations to complete each level.
 - You can also navigate between levels using the level selector.
-
-Feel free to get creative and make the game your own!
 ---
