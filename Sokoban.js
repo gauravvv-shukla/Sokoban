@@ -89,7 +89,7 @@ class Sokoban {
       this.context.fillRect(0, 0, size.width, size.height)
       this.context.font = 'bold 60px sans-serif'
       this.context.fillStyle = colors.success_block.fill
-      this.context.fillText('A Winner is You!', 65, 300)
+      this.context.fillText('You won!', 65, 300)
     }
   }
 
